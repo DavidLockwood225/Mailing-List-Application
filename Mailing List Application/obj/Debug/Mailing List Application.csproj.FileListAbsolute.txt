@@ -1,0 +1,10 @@
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\bin\Debug\Mailing List Application.exe.config
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\bin\Debug\Mailing List Application.exe
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\bin\Debug\Mailing List Application.pdb
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\obj\Debug\Mailing List Application.csprojAssemblyReference.cache
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\obj\Debug\Mailing_List_Application.frmMailingList.resources
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\obj\Debug\Mailing_List_Application.Properties.Resources.resources
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\obj\Debug\Mailing List Application.csproj.GenerateResource.cache
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\obj\Debug\Mailing List Application.csproj.CoreCompileInputs.cache
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\obj\Debug\Mailing List Application.exe
+C:\Users\dlockwood024548\Documents\Mailing List Application\Mailing List Application\obj\Debug\Mailing List Application.pdb
